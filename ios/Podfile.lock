@@ -1,0 +1,46 @@
+PODS:
+  - clipboard_manager (0.0.3):
+    - Flutter
+  - Flutter (1.0.0)
+  - intro_slider (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - qrcode_reader (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - clipboard_manager (from `.symlinks/plugins/clipboard_manager/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - intro_slider (from `.symlinks/plugins/intro_slider/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - qrcode_reader (from `.symlinks/plugins/qrcode_reader/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+EXTERNAL SOURCES:
+  clipboard_manager:
+    :path: ".symlinks/plugins/clipboard_manager/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  intro_slider:
+    :path: ".symlinks/plugins/intro_slider/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  qrcode_reader:
+    :path: ".symlinks/plugins/qrcode_reader/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  clipboard_manager: a6f1e56e1abb10def5bd6a83e86183086bdcfd01
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  intro_slider: 961a06956afdbaeaafb8488269b52eae4f866dbb
+  path_provider: 09407919825bfe3c2deae39453b7a5b44f467873
+  qrcode_reader: da11877390dff62dd3783964618d666a857e34c8
+  shared_preferences: 5a1d487c427ee18fcd3ea1f2a131569481834b53
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.5.3
