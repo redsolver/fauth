@@ -1,6 +1,8 @@
 # FAuth
 A Flutter 2FA-App to generate Time-Based One-Time Passwords.
 
+This app is written in under 5KB of Dart Code and was made for the Flutter Create challenge.
+
 ## Intro
 FAuth contains some intro slides which explain the features of the app.
 
